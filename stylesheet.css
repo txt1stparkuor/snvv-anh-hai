@@ -1431,6 +1431,9 @@ audio {
   .balloons h2 {
     font-size: 1em; /* Adjust as needed */
   }
+  .message p {
+	font-size: 24px;
+  }
 }
 
     /*controlling tablet width*/
